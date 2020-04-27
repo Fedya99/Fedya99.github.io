@@ -9,6 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background: linear-gradient(#ffeb3b#e91e63);
 }
 section{
     position: relative;
